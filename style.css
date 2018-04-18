@@ -1,0 +1,86 @@
+* {
+		margin: 0;
+		padding: 0;
+	}
+.container-fluid {
+    padding: 0;
+}
+
+.header-part.jumbotron.text-center {
+    background: #172531;
+    margin-bottom:  0;
+    border-radius: 0;
+}
+.display-4 {
+    font-size: 3.5rem;
+    font-weight: 600;
+    line-height: 1.2;
+    color: #fff;
+    text-transform: uppercase;
+}
+h3#addressed {
+    color: #ddd;
+    font-size: 16px;
+}
+input.form-control.live_res_form {
+    max-width: 400px;
+    height: 50px;
+    border-radius: 2px;
+    line-height: 34px;
+    padding: 10px 10px;
+    font-size: 16px;
+    display: inline-block;
+    margin-bottom: 30px;
+    width: 100%;
+}
+.weatherDet.text-center {
+    padding: 30px;
+    background: #63acfb;
+    color: #fff;
+}
+.col-md-4.inf1 {
+    margin-bottom: 20px;
+}
+
+hr.short {
+    width: 100px;
+    border-top: 2px solid #fff;
+    margin: 8px auto;
+}
+h2.srchTtl {
+    font-size: 26px;
+    color: #172531;
+}
+footer.foot.text-center {
+    padding: 20px;
+    background: #172531;
+    color: #fff;
+}
+
+footer.foot.text-center h4 {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+img.meImg {
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+}
+.sLink a {
+    color: #fff;
+    padding: 2px;
+    text-decoration: none;
+}
+
+.sLink i {
+    font-size: 15px;
+}
+
+.sLink {
+    margin-top: 5px;
+}
+
+footer.foot.text-center p {
+    margin-bottom: 2px;
+    font-size: 12px;
+}
